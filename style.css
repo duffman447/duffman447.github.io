@@ -6,6 +6,8 @@ html {
   font-family: 'Montserrat', sans-serif;
   background-color: #393a34;
   margin: 0px auto;
+  display: flex;
+  justify-content: center;
   /*-webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
